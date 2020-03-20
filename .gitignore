@@ -1,0 +1,9 @@
+.gradle
+build
+tokens
+src/main/resources/*.json
+.project
+.classpath
+bin
+.settings
+gradle/
